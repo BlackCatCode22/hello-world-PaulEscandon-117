@@ -1,12 +1,7 @@
 #include <iostream>
 
-using namespace std;
-
-int main()
+int main() 
 {
-    cout << "       /|" << endl;
-    cout << "      / |" << endl;
-    cout << "     /  |" << endl;
-    cout << "    /___|" << endl;
+    std::cout <<"Hello, world!";
     return 0;
 }
